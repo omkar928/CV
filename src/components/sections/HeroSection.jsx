@@ -63,7 +63,11 @@ const HeroSection = () => {
             </div>
             <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md rounded-full px-4 py-2 md:px-6 md:py-3 text-sm md:text-base">
               <Zap className="w-4 h-4 md:w-5 md:h-5 text-blue-400" />
-              <span className="text-white">₹2,45,000 Funding</span>
+              <span className="text-white">Organizer TEDxSNPSU</span>
+              </div>
+            <div className="flex items-center gap-2 bg-white/10 backdrop-blur-md rounded-full px-4 py-2 md:px-6 md:py-3 text-sm md:text-base">
+              <Zap className="w-4 h-4 md:w-5 md:h-5 text-blue-400" />
+              <span className="text-white">₹12,45,000 Funding</span>
             </div>
           </div>
           <div className="flex flex-wrap justify-center gap-4">
