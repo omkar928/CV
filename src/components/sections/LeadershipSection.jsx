@@ -6,6 +6,18 @@ import { Building, Users, CheckSquare, Shield } from 'lucide-react';
 const leadershipData = [
   {
     icon: <Building className="w-8 h-8 text-white" />,
+    title: "Licensee & Organizer – TEDxSNPSU",
+    organization: "Sapthagiri NPS University",
+    duration: "July 2025 – Present",
+    description: [
+      "Established a collaborative initiative TEDx Event at Sapthagiri NPS University.",
+      "Organized Events, Seminars on Varoius Fields.",
+      "Explore New Ideas fro the events."
+    ],
+    gradient: "from-teal-500 to-cyan-500"
+  },
+  {
+    icon: <Building className="w-8 h-8 text-white" />,
     title: "Founder & CTO – Biomedical Engineering Club (BioBridges)",
     organization: "Sapthagiri NPS University",
     duration: "October 2024 – Present",
