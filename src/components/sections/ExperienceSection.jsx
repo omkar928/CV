@@ -6,6 +6,18 @@ import { Users, Settings, Briefcase, Presentation } from 'lucide-react';
 const experienceData = [
   {
     icon: <Users className="w-8 h-8 text-white" />,
+    title: "License Holder TEDxSNPSU – Organizer TEDxSNPSU",
+    organization: "TEDx, Sapthagiri NPS University",
+    duration: "July 2025 – Present",
+    description: [
+      "Assisted in promotional activities and community outreach for TEDxSNPSU.",
+      "Coordinated tasks, ensured milestones, and fostered collaboration.",
+      "Result: Guided team to bring TEDxSNPSU."
+    ],
+    gradient: "from-purple-500 to-indigo-500"
+  },
+  {
+    icon: <Users className="w-8 h-8 text-white" />,
     title: "Team Leader – ISRO IROC 2025 Project",
     organization: "Team Svayatt, Sapthagiri NPS University",
     duration: "October 2024 – Present",
